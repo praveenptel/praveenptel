@@ -65,7 +65,7 @@ My focus is **long-term system health**, not just short-term delivery.
 
 ---
 
-## 🏗️ What I Do as a Staff Engineer
+## 🏗️ What I Do as a Product Engineer
 
 ### 🔹 Architecture & System Design
 - Design **fault-tolerant, scalable microservices**
